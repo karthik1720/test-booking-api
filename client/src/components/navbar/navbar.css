@@ -1,0 +1,15 @@
+.navbar{
+    background-color: orangered;
+    display: flex;
+    margin-top: 0px;
+    align-items: center;
+    
+}
+
+.navContainer{
+    width: 100%;
+    max-width: 1024px;
+    display: flex;
+   justify-content: space-between;
+    align-items: center;
+}

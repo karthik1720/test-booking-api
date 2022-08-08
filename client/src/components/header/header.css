@@ -1,0 +1,11 @@
+.bar{
+    width: 100%;
+    max-width: 1024px;
+    display: flex;
+    align-items: center;
+    padding: 0px 10px;
+}
+
+.baritem{
+    padding-right: 10px;
+}
